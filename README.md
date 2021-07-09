@@ -7,16 +7,16 @@ find the files.
 
 The mini-project is build by a team of 4 namely:
 
--Yonathan Agena
+-Yonathan Agena - wel-sen(username)
   - ETS1303/10
   
--Yonas Assefa
+-Yonas Assefa - JonasAssefa(username)
   - ETS1290/10
 
--Yohannes Molla
+-Yohannes Molla - Yohannes7molla(username)
   - ETS1282/10
 
--Yitbarek Birhanie
+-Yitbarek Birhanie - YitbarekB(username)
   - ETS1270/10 
  
   
