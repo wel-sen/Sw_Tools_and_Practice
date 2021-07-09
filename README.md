@@ -1,8 +1,10 @@
 # Sw_Tools_and_Practice
 
 This file is a mini-project for the course called "Software Tools and Practice".
-Sir, some of us have creates branch and pushed it to there, incase if u didn't 
-find other files.
+
+Sir, we have creates branch and pushed it to there, incase if u didn't 
+find the files.
+
 The mini-project is build by a team of 4 namely:
 
 -Yonathan Agena
