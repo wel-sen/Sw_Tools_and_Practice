@@ -14,3 +14,5 @@ The assignement is build by a team of 4 namely:
 
 -Yitbarek Birhanie
   - ETS1270/10 
+  we are the team member
+  
