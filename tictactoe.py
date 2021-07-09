@@ -1,4 +1,5 @@
 #Implementation of Two Player Tic-Tac-Toe game in Python.
+#Made By Yonathan Agena/ ETS 1303/10
 
 ''' We will make the board using dictionary 
     in which keys will be the location(i.e : top-left,mid-right,etc.)
