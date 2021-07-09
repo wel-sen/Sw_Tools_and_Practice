@@ -3,13 +3,14 @@
 This file is an assignment for the course called "Software Tools and Practice".
 The assignement is build by a team of 4 namely:
 
--Yonathan Agena         
+-Yonathan Agena
+  - ETS1303/10
+  
 -Yonas Assefa
--Yohannes Molla
--Yitbarek Birhanie
+  - ETS1290/10
 
-ID:
-ETS1303/10
-ETS1290/10
-ETS1282/10
-ETS1270/10    ............respectively!
+-Yohannes Molla
+  - ETS1282/10
+
+-Yitbarek Birhanie
+  - ETS1270/10 
